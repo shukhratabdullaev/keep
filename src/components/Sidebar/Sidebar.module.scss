@@ -1,0 +1,33 @@
+.sidebar {
+    width: 250px;
+    transition: width 0.3s ease-in-out;
+    height: 100vh;
+    background-color: #1976d2;
+    padding-top: 28px;
+    position: fixed;
+}
+.sidebarClosed {
+    width: 60px;
+    transition: width 0.3s ease-in-out;
+    height: 100vh;
+    background-color: #1976d2;
+    padding-top: 28px;
+    position: fixed;
+}
+.sideitem {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+    overflow: hidden;
+}
+.linkText {
+    padding-left: 16px;
+}
+
+.sideitem:hover {
+    background-color: #244f7d1c;
+}
+
