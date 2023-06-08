@@ -8,4 +8,4 @@
 Код должен содержать понятные комментарии :)
  
 Инструменты, которые нужно применить для выполнения задания: https://github.com/facebook/create-react-app; https://mui.com/
-[DEMO]([url](https://googlekeeptest.netlify.app/))
+[DEMO](https://googlekeeptest.netlify.app/)
